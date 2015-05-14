@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+fkjflajsdljdlfdj
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+it’s a cushion between repo and working directory
